@@ -402,7 +402,7 @@ eval(__webpack_require__.ts("__webpack_require__.r(__webpack_exports__);\n/* har
 /***/ (function(module, __unused_webpack_exports, __webpack_require__) {
 
 "use strict";
-module.exports = JSON.parse('{"main":[{"name":"Home","url":"/"},{"name":"About","url":"/about"},{"name":"Resume","url":"/resuz"},{"name":"Contact","url":"/contact"},{"name":"Pages","url":"","hasChildren":true,"children":[{"name":"Categories","url":"/categories"}]}],"footer":[{"name":"Home","url":"/"},{"name":"About","url":"/about"},{"name":"Contact","url":"/contact"},{"name":"Privacy Policy","url":"#"}]}');
+module.exports = JSON.parse('{"main":[{"name":"Home","url":"/"},{"name":"About","url":"/about"},{"name":"Resume","url":"/elements"},{"name":"Contact","url":"/contact"},{"name":"Pages","url":"","hasChildren":true,"children":[{"name":"Categories","url":"/categories"}]}],"footer":[{"name":"Home","url":"/"},{"name":"About","url":"/about"},{"name":"Contact","url":"/contact"},{"name":"Privacy Policy","url":"#"}]}');
 
 /***/ }),
 

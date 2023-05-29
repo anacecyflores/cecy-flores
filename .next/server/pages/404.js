@@ -996,7 +996,7 @@ module.exports = JSON.parse('{"site":{"title":"Cecy Flores","base_url":"/","favi
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse('{"main":[{"name":"Home","url":"/"},{"name":"About","url":"/about"},{"name":"Elements","url":"/elements"},{"name":"Contact","url":"/contact"},{"name":"Pages","url":"","hasChildren":true,"children":[{"name":"Categories","url":"/categories"}]}],"footer":[{"name":"Home","url":"/"},{"name":"About","url":"/about"},{"name":"Contact","url":"/contact"},{"name":"Privacy Policy","url":"#"}]}');
+module.exports = JSON.parse('{"main":[{"name":"Home","url":"/"},{"name":"About","url":"/about"},{"name":"Resume","url":"/elements"},{"name":"Contact","url":"/contact"},{"name":"Pages","url":"","hasChildren":true,"children":[{"name":"Categories","url":"/categories"}]}],"footer":[{"name":"Home","url":"/"},{"name":"About","url":"/about"},{"name":"Contact","url":"/contact"},{"name":"Privacy Policy","url":"#"}]}');
 
 /***/ }),
 
