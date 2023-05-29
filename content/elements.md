@@ -3,251 +3,99 @@ title: "Resume"
 draft: false
 ---
 
-# Heading 1
+<Tabs>
+  <Tab name="Technical Skills">
+    ### Full Stack Web Development
 
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
+    Front End:HTML, CSS, JavaScript, NextJS, JQUERY, SQL, Bootstrap, Tailwind
 
 ---
 
-### Paragraph
+    Back End: API integration, Handlebars, Routing, Password Encryption, MongoDB, Mongo Atlas, Insomnia/Postman Testing, React, React Three Fiber, Three Js, Google Domains.
 
-Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once. We have a saboteur aboard. We know you’re dealing in stolen ore. But I wanna talk about the assassination attempt on Lieutenant Worf. Could someone survive inside a transporter buffer for 75 years? Fate. It protects fools, little children, and ships.
+  </Tab>
+  <Tab name="Related Education">
+    ## Northwestern Fullstack Bootcamp- September 2022
 
-Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once. We have a saboteur aboard. We know you’re dealing in stolen ore. But I wanna talk about the assassination attempt on Lieutenant Worf. Could someone survive inside a transporter buffer for 75 years? Fate. It protects fools, little children, and ships.
+    -AWS Solutions Architect (Certificate Pending)
 
+  </Tab>
+  <Tab name="Other Education">
+    #### Educator Changing Careers
+
+Concordia University Chicago
+
+    -B.S., History
+
+    -B.S., Middle & Secondary Education (6-12th)
+
+    -Minor in Spanish as a World Language
+
+    -English as a Second Language (K-12th) - Bilingual Transitional Education (K-12th)
+
+    -Virginia Institute of Interpreting - Spring 2021
+
+    -TEFL 120 hours Certificate
+
+  </Tab>
+</Tabs>
 ---
-
-### Emphasis
-
-1. Did you come here for something in **particular** or just general
-
-2. Did you come here for something in <ins>particular</ins>
-
-3. _Did you come here_
-
-4. Did you come here for **something** in particular
-
-5. Did you come here for something in particular
-
-6. Did you come here for something in particular
-
-7. URLs and URLs in angle brackets will automatically get turned into links. [http://www.example.com](http://www.example.com) or
-
-8. [http://www.example.com](http://www.example.com) and sometimes example.com (but not on Github, for example).
-
----
-
-### Link
-
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.themefisher.com
-[1]: https://gethugothemes.com
-[link text itself]: https://www.getjekyllthemes.com
-
----
-
-### Ordered List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
----
-
-### Unordered List
-
-- List item
-- List item
-- List item
-- List item
-- List item
-
----
-
-### Code and Syntax Highlighting
-
-#### HTML
-
-<Code language="html">
-{`<ul>
-  <li class="nav-item">
-    <a class="nav-link" href="/">Home</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="about/">About</a>
-  </li>
-</ul>`}
-</Code>
-
----
-
-#### CSS
-
-<Code language="css">
-{`img {
-  vertical-align: middle;
-  border: 0;
-  max-width: 100%;
-  height: auto;
-}`}
-</Code>
-
----
-
-#### JavaScript
-
-<Code language="javascript">
-{`window.addEventListener("load", (e) => {
-  document.querySelector(".preloader").style.display = "none";
-})`}
-</Code>
-
----
-
-### Button
-
-<Button href="#" type="solid">Button</Button>
-
----
-
-### Quote
-
-> Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once.
-
----
-
-### Notice
-
-<Notice type="note">
-  This is a simple note.
-</Notice>
-
-<Notice type="tip">
-  This is a simple note.
-</Notice>
-
-<Notice type="info">
-  This is a simple note.
-</Notice>
-
-<Notice type="warning">
-  This is a simple note.
-</Notice>
-
----
+## Projects & Freelance Sites
 
 <Tabs>
 
-<Tab name="Tab 1">
+  <Tab name="Lupita's HVAC">
 
-#### Did you come here for something in particular?
+### HVAC Company site for a small business owner.
 
-Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once. We have a saboteur aboard. We know you’re dealing in stolen ore. But I wanna talk about the assassination attempt on Lieutenant Worf.
+## [Lupita's HVAC](https://lupitahvac.com)
+
+[Github Repo:](https://github.com/anacecyflores1)
+
+Top Coding languages used: HTML, TypeScript
+
 </Tab>
 
-<Tab name="Tab 2">
+  <Tab name="Arzet Home Improvement">
 
-#### I wanna talk about the assassination attempt
+### Business site for a local handyman.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+## [Arzet Home Improvement](https://arzethomeimprovement.com)
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Top Coding languages used: HTML, CSS, SCSS,JavaScript Other: Netlify, gulp.js
+
+  </Tab>
+
+  <Tab name="Get Higher">
+
+## [Get Higher](https://get-higher.herokuapp.com/login)
+
+This project used a Google Job Search API to deliver the job posting feature to the user based on location and career option. Once the user takes our carefully designed personality/aptitude test the user will be recommended a career option that will fit their personality.A key feature of our project is the login portion for the user to keep their progress, information and job interests saved for their next visit which is stored into our very own user information database.
+
+The job search api, Google Map, individualized quiz, calendar for reminders and dashboard facilitate the job seeking experience for the user to stay in our site alone instead of navigating through various job sites/applications which creates the “all in one place” feel that will highlight our site over other sites.
+
+Top Coding languages used: Handlebars, Node, JavaScript, Tailwind, Google Maps Api, Google Job Search Api
+
+  </Tab>
+
+  <Tab name="WorldView">
+
+## [WorldView](https://my-world-view.herokuapp.com)
+
+WorldView is an educational application created using React.js, GraphQL, MongoDB, Three.js, and React-three-fiber, a React renderer for Three.js.
+
+This application functions as a visual educational resource for students of all ages to learn about historical moments that occured in different centuries around the globe. Be sure to create an account so you can save your favorite moments in history.
+
+Top Coding languages used:React, React Three
+
 </Tab>
 
-<Tab name="Tab 3">
-
-#### We know you’re dealing in stolen ore
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
-</Tab>
-
-</Tabs>
+  </Tabs>
 
 ---
 
-### Table
+<Button href="about" type="solid">About Me</Button> <Button href="https://www.midwestdev.net/" type="solid">About Midwest Development</Button>
 
-| #   |    First     |     Last     |       Handle |
-| :-- | :----------: | :----------: | -----------: |
-| 1   | Row:1 Cell:1 | Row:1 Cell:2 | Row:1 Cell:3 |
-| 2   | Row:2 Cell:1 | Row:2 Cell:2 | Row:2 Cell:3 |
-| 3   | Row:3 Cell:1 | Row:3 Cell:2 | Row:3 Cell:3 |
+## MidWest development
 
----
-
-### Collapse
-
-<Accordion title="Why should you need to do this?">
-
-- This is a thing.
-- This is a thing.
-- This is a thing.
-- This is a thing.
-- This is a thing.
-
-</Accordion>
-
-<Accordion title="How can I adjust Horizontal centering">
-
-- This is a thing.
-- This is a thing.
-- This is a thing.
-- This is a thing.
-- This is a thing.
-
-</Accordion>
-
-<Accordion title="Should you use Negative margin?">
-
-- This is a thing.
-- This is a thing.
-- This is a thing.
-- This is a thing.
-- This is a thing.
-
-</Accordion>
-
----
-
-### Image
-
-![image](/images/post/post-1.png)
-
----
-
-### Youtube video
-
-<Youtube id="ZEe-IFezQok" title="Play:Youtube"/>
-
----
-
-### Custom video
-
-<Video width="100%" src="https://joy1.videvo.net/videvo_files/video/free/video0467/large_watermarked/_import_61516692993d77.04238324_preview.mp4" />
+<Youtube width="100%" src="https://www.youtube.com/watch?v=l0uvNZiE43U" />
