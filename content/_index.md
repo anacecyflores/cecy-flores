@@ -21,6 +21,6 @@ promotion:
   link: "#"
 
 recent_posts:
-  title: Recent Posts
+  title: Recent Projects
   enable: true
 ---
